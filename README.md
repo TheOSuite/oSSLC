@@ -42,7 +42,7 @@ Before running the script, you need to have Python installed on your system. You
 4.  Run the script using the command:
 
     ```bash
-    python eSSLC.py
+    python oSSLC.py
     ```
 
     This will open the GUI window.
