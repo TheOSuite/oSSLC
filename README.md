@@ -1,5 +1,8 @@
 # SSL Certificate Analyzer
 
+![GitHub License](https://img.shields.io/github/license/TheOSuite/oXSS)
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+
 This is a simple Python script that provides a graphical user interface (GUI) to analyze SSL certificates from websites. It can fetch certificate details, perform basic security checks, and potentially check for certificate revocation using Certificate Revocation Lists (CRLs).
 
 **Please Note:** This is a beginner-friendly tool and may not perform all advanced certificate validation checks. The CRL checking functionality is a basic implementation and may have limitations.
